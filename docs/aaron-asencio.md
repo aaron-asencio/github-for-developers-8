@@ -1,4 +1,4 @@
 ## Chapter 1
 **hello:** Archer
 
-black is my fave color :) 
+black is my favorite color :) 
